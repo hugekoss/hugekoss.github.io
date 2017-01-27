@@ -1,0 +1,9 @@
+@media(max-width:1200px){
+	.main-mnu li a{
+	font-size: 16px;
+	padding: 34px 10px;
+	}
+	.sub-mnu li a{
+	padding: 10px;
+	}
+}
